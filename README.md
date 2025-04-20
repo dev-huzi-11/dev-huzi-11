@@ -20,7 +20,7 @@ I'm a self-taught frontend developer who loves building beautiful, responsive, a
 
 | Project | Description |
 |--------|-------------|
-| 🛍️ **Shop Co** – A modern e-commerce marketplace built with Next.js, Tailwind CSS and Sanity CMS offering a seamless experience for consumers
+| 🛍️ **Shop Co** | A modern e-commerce marketplace built with Next.js, Tailwind CSS and Sanity CMS offering a seamless experience for consumers
 | 🎵 **Music School Website** | A fully responsive music school website with 3D & hover cards |
 | 📄 **Resume Builder** | Create, edit, and download resumes with a shareable username link |
 | 🚗 **DriveEase** | Car rental website built with Next.js and Tailwind CSS |
@@ -28,7 +28,7 @@ I'm a self-taught frontend developer who loves building beautiful, responsive, a
 | 😂 **Random Joke Generator** | Fetches and displays random jokes via API |
 | 📐 **Unit Converter (Streamlit)** | Modular unit converter app for time, length, volume, etc. |
 
-> Check out all my projects [here](https://github.com/dev-huzi-11?tab=repositories)
+> Check out all my projects [Click here](https://github.com/dev-huzi-11?tab=repositories)
 
 ---
 
