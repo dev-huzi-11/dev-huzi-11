@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Huzaifa Nazeer!
 
-🚀 Frontend Developer | 🎨 AGI Enthusiast | 💡 Passionate Learner  
+🚀 Frontend Developer | 🎨 Agentic AI Enthusiast | 💡 Passionate Learner  
 
 I'm a self-taught frontend developer who loves building beautiful, responsive, and functional websites using modern technologies. Currently learning Python and FastAPI, and building cool stuff with Next.js, Tailwind CSS, TypeScript, and Shadcn UI.
 
